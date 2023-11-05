@@ -1,5 +1,5 @@
-# TutorLoop: The Use cases
-This product was created to help Singh's Tutoring Center in Delhi, India amidst the covid pandemic. Its final use cases are as follows: 
+# TutorLoop: The Use Cases
+This product was created to help Singh's Tutoring Center in Delhi, India amidst the COVID pandemic. Its final use cases are as follows: 
 
     1.User Registration and Authentication:
 

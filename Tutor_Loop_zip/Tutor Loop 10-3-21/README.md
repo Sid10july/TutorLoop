@@ -1,4 +1,4 @@
-This product was created to help Singh's Tutoring Center in Delhi, India amidsts the covid pandemic. It's final use cases are as follows: 
+This product was created to help Singh's Tutoring Center in Delhi, India amidst the covid pandemic. Its final use cases are as follows: 
 
     1.User Registration and Authentication:
 

@@ -5,7 +5,7 @@ The following is a full-stack development project I worked on over the course of
 
 <a name="tutorloop-why-tutorloop"></a>
 # TutorLoop: Why TutorLoop? 
-Mr. Singh was a public school teacher at Delhi Public School in Delhi, India. For the past 5 years, Mr. Singh has been running a semi-informal tutoring center with the help of other teachers. With the mode of instruction switching to online learning during COVID, and board exams creeping ever closer, many students sought out his relatively affordable tutoring as a means to keep up with their education. Managing the new influx of students became a hassle as communicating over direct messages and group chats became exceedingly inefficient. It is to meet this demand that I created TutorLoop – a website that could manage the scale of several students independently.   
+Mr. Singh was a public school teacher at Delhi Public School in Delhi, India. For the past 5 years, Mr. Singh has been running a semi-informal tutoring center with the help of other teachers. With the mode of instruction switching to online learning during COVID, and board exams creeping ever closer, many students sought out his relatively affordable tutoring as a means to keep up with their education. However, managing the new influx of students became a hassle as communicating over direct messages and group chats became exceedingly inefficient. It is to meet this demand that I created TutorLoop – a website that could manage the scale of several students independently.   
 
 ![Calendar Page](Tutor_Loop_zip/Tutor%20Loop%2010-3-21/meeting-scheduler%20(2)/meeting-scheduler/assets/Project%20Documentation/TutorLoop%20CalendarPage.png)
 
